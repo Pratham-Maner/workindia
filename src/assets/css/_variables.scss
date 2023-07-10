@@ -1,0 +1,57 @@
+/* primary color */
+$primary-purple: #843df5;
+$secondary-blue: #479eef;
+$primary-green: #007656;
+$primary-bg: #0d0d0d;
+$primary-red: #eb5939;
+$primary-yellow: #fabf29;
+$primary-pink: #ffccde;
+$footer-bg: #1b1d20;
+
+/* tint */
+$tint-orange: #c5c0bc;
+
+/* neutral */
+$neutral-000: #ffffff;
+$neutral-100: #dfdfe0;
+$neutral-200: #b9b9b9;
+$neutral-300: #8b8b8b;
+$neutral-400: #3f3f45;
+$neutral-500: #2e2e2e;
+$neutral-600: #000000;
+
+/* box-shadow */
+$box-shadow-light: 0.2rem 0.2rem 1rem rgba(0, 0, 0, 0.1);
+
+/* break points */
+$break-point-desktop: 1400px;
+$break-point-desktop-sm: 1200px;
+$break-point-tab-lg: 992px;
+$break-point-tab: 850px;
+$break-point-tab-sm: 768px;
+$break-point-mobile-lg: 650px;
+$break-point-mobile: 576px;
+$break-point-mobile-sm: 430px;
+
+/*radius */
+$br-0: 6px;
+$br-1: 10px;
+$br-2: 20px;
+$br-3: 30px;
+$br-4: 40px;
+
+/* z-index */
+$z-cursor: 400;
+$z-navbar: 150;
+
+/* responsive value */
+$index: calc(1vw + 1vh);
+
+/* padding */
+$pd-container: 3rem;
+$pd-container-tab: 20px;
+$pd-container-sm: 16px;
+
+/* height */
+$navbar-height: 60px;
+$navbar-height-sm: 60px;

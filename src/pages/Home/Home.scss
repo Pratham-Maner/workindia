@@ -1,0 +1,22 @@
+@import "../../assets/css/variables";
+
+.Home_container {
+  padding-top: 4rem;
+
+  .content_container {
+    display: flex;
+    gap: 4rem;
+    
+    .content_item {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+
+      .card_container {
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+      }
+    }
+  }
+}
